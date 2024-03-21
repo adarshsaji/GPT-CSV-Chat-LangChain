@@ -1,0 +1,22 @@
+# Python bytecode files
+*.pyc
+
+# Directory for virtual environments
+venv/
+
+# Directory for Python packages
+*.egg-info/
+dist/
+build/
+
+# Ignore any local development settings files
+.env
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore Python cache directories
+__pycache__/
